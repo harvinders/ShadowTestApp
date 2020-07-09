@@ -14,7 +14,6 @@
     <Grid>
         <SplitView x:Name="SettingFlyout"
                    DisplayMode="Overlay"
-                   IsPaneOpen="True"
                    PanePlacement="Right"
                    OpenPaneLength="450">
             <SplitView.Pane>
